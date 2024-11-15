@@ -17,10 +17,9 @@
 
 <br>
 
-- A 3rd year (grad 2025) Computer Engineering Student at Cal Poly SLO
-- Incoming Software Engineer Intern at DoorDash for Summer 2024
+- A 4th Year Computer Engineering Student at Cal Poly SLO
+- Incoming Software Engineer @ DoorDash 
 - Passionate and dedicated student looking to utilize technical skills to make a real-world impact
-- Currently looking for Winter/Spring 2024 internships [my resume](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:aac97ee3-34d9-4c7c-a7f1-4b5f9d20b9ef)
 
 <br><br>
 
